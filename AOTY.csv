@@ -1,0 +1,473 @@
+artist,album,genre,year,month,day,score,n_reviews
+Prince,"Sign ""O"" the Times",R&B,1987,March,31,100,6
+The Replacements,Let It Be,Alternative Rock,1984,October,2,100,6
+Paul Simon,Graceland,Singer-Songwriter,1986,August,12,100,5
+Joni Mitchell,Court and Spark,Folk,1974,January,1,100,5
+Miles Davis,Kind of Blue,Jazz,1959,August,17,100,5
+The Stone Roses,The Stone Roses,Alternative Rock,1989,March,13,100,5
+Pixies,Doolittle,Alternative Rock,1989,April,18,100,5
+The Beatles,Revolver,Pop Rock,1966,August,5,100,5
+R.E.M.,Automatic for the People,Alternative Rock,1992,October,5,100,5
+The Beatles,Rubber Soul,Pop Rock,1965,December,3,100,5
+Led Zeppelin,Led Zeppelin II,Hard Rock,1969,October,22,99,5
+Fleetwood Mac,Rumours,Pop,1977,February,4,99,7
+David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,Glam Rock,1972,June,6,99,6
+Prince,Dirty Mind,Funk,1980,October,8,99,6
+Elvis Costello & The Attractions,This Year's Model,New Wave,1978,March,17,99,5
+Brian Eno,Another Green World,Art Rock,1975,September,1,99,5
+Massive Attack,Blue Lines,Trip Hop,1991,August,6,99,5
+U2,Achtung Baby,Alternative Rock,1991,November,18,99,6
+The Beatles,Sgt. Pepper's Lonely Hearts Club Band,Pop Rock,1967,June,1,99,5
+Serge Gainsbourg,Histoire de Melody Nelson,Art Pop,1971,March,1,98,8
+The Beatles,A Hard Day's Night,Pop Rock,1964,July,10,98,5
+Public Enemy,Fear of a Black Planet,Hip Hop,1990,April,10,97,6
+Public Enemy,It Takes a Nation of Millions to Hold Us Back,Hip Hop,1988,April,14,97,5
+Nick Drake,Pink Moon,Folk,1972,February,25,97,5
+U2,The Joshua Tree,Rock,1987,March,9,97,6
+The Beatles,The Beatles,Classic Rock,1968,November,22,97,7
+Led Zeppelin,Led Zeppelin IV,Rock,1971,November,8,97,5
+Joy Division,Closer,Post-Punk,1980,July,18,97,6
+Public Image Ltd.,Metal Box,Post-Punk,1979,November,23,97,5
+Refused,The Shape of Punk to Come,Hardcore Punk,1998,October,27,96,5
+Beastie Boys,Paul's Boutique,Hip Hop,1989,July,25,96,5
+The Dismemberment Plan,Emergency & I,Indie Rock,1999,October,26,96,8
+Liz Phair,Exile in Guyville,Indie Rock,1993,June,22,96,5
+Arcade Fire,Funeral,Indie Rock,2004,September,14,96,14
+Nas,Illmatic,Hip Hop,1994,April,19,96,7
+Led Zeppelin,Houses of the Holy,Rock,1973,March,28,95,5
+Simon & Garfunkel,Bridge Over Troubled Water,Folk Rock,1970,January,26,95,7
+Oasis,Definitely Maybe,Britpop,1994,August,30,95,5
+Primal Scream,Screamadelica,Alternative Dance,1991,September,23,95,5
+Prince,1999,Funk,1982,October,27,95,7
+Radiohead,OK Computer,Alternative Rock,1997,June,16,95,10
+Björk,Homogenic,Art Pop,1997,September,23,95,8
+DJ Shadow,Endtroducing...,Hip Hop,1996,November,19,95,8
+Prince & The Revolution,Purple Rain,R&B,1984,June,25,95,6
+Galaxie 500,On Fire,Slowcore,1989,January,1,95,5
+Neil Young,After the Gold Rush,Folk Rock,1970,August,31,95,5
+Elvis Costello,My Aim Is True,New Wave,1977,July,22,94,6
+R.E.M.,Murmur,Alternative Rock,1983,April,12,94,7
+Brian Wilson,SMiLE,Rock,2004,September,28,94,10
+Michael Jackson,Thriller,Pop,1982,November,30,94,6
+The Beatles,Please Please Me,Classic Rock,1963,March,22,94,5
+Kendrick Lamar,To Pimp a Butterfly,Hip Hop,2015,March,16,94,30
+Led Zeppelin,Physical Graffiti,Hard Rock,1975,February,24,94,5
+Mobb Deep,The Infamous,Hip Hop,1995,April,25,94,5
+Jawbox,For Your Own Special Sweetheart,Post-Hardcore,1994,February,8,94,5
+Beck,Odelay,Alternative Rock,1996,June,18,94,7
+Joy Division,Unknown Pleasures,Post-Punk,1979,June,14,94,6
+David Bowie,Low,Art Rock,1977,January,14,94,5
+Nirvana,Nevermind,Grunge,1991,September,24,93,5
+D'Angelo,Black Messiah,Neo-Soul,2014,December,15,93,23
+Miles Davis,Sketches of Spain,Jazz,1960,July,18,93,5
+Dizzee Rascal,Boy in da Corner,Grime,2003,July,21,93,13
+The Flaming Lips,The Soft Bulletin,Neo-Psychedelia,1999,June,22,93,7
+Led Zeppelin,Led Zeppelin III,Rock,1970,October,5,93,5
+Isaac Hayes,Hot Buttered Soul,Soul,1969,September,23,92,5
+Burial,Untrue,Dubstep,2007,November,6,92,14
+Aphex Twin,Selected Ambient Works 85-92,Ambient,1992,February,12,92,5
+My Bloody Valentine,Loveless,Shoegaze,1991,November,4,92,7
+Anaïs Mitchell,Hadestown,Folk,2010,March,9,92,5
+Frank Ocean,Channel Orange,R&B,2012,July,17,92,30
+Sufjan Stevens,Illinois,Chamber Pop,2005,July,5,92,19
+The Velvet Underground,White Light/White Heat,Experimental Rock,1968,January,30,92,5
+Kanye West,My Beautiful Dark Twisted Fantasy,Hip Hop,2010,November,22,92,33
+D'Angelo,Voodoo,Neo-Soul,2000,January,25,92,5
+Viktor Vaughn,Vaudeville Villain,Hip Hop,2003,September,16,91,5
+Yo La Tengo,I Can Hear the Heart Beating as One,Indie Rock,1997,April,22,91,7
+Animal Collective,Merriweather Post Pavilion,Experimental,2009,January,20,91,27
+Wilco,Yankee Hotel Foxtrot,Alternative Rock,2002,April,23,91,11
+OutKast,Aquemini,Hip Hop,1998,September,29,91,5
+Pulp,Different Class,Britpop,1995,October,30,91,8
+Dungen,Ta Det Lugnt,Psychedelic Rock,2004,June,21,91,7
+Lucinda Williams,Car Wheels on a Gravel Road,Singer-Songwriter,1998,June,30,91,5
+The Microphones,The Glow Pt. 2,Lo-Fi,2001,September,25,91,6
+Blur,Parklife,Britpop,1994,April,25,91,6
+Young Marble Giants,Colossal Youth,Post-Punk,1980,February,1,91,8
+The Smashing Pumpkins,Siamese Dream,Alternative Rock,1993,July,27,91,7
+El-P,Fantastic Damage,Hip Hop,2002,May,14,91,7
+Led Zeppelin,Led Zeppelin,Hard Rock,1969,January,12,91,6
+Mos Def,Black on Both Sides,Hip Hop,1999,October,12,90,6
+Deafheaven,Sunbather,Black Metal,2013,June,11,90,16
+Portishead,Dummy,Trip Hop,1994,October,17,90,6
+Godspeed You! Black Emperor,Lift Your Skinny Fists Like Antennas to Heaven,Post-Rock,2000,October,9,90,5
+The Magnetic Fields,69 Love Songs,Indie Pop,1999,September,7,90,10
+Jamey Johnson,The Guitar Song,Country,2010,September,14,90,6
+Bob Dylan,Modern Times,Folk,2006,August,29,90,13
+Sunn O))),Black One,Drone,2005,October,18,90,6
+Mbongwana Star,From Kinshasa,World,2015,May,19,90,8
+Sleater-Kinney,No Cities to Love,Indie Rock,2015,January,20,90,27
+The Monks,Black Monk Time,Garage Rock,1966,March,1,90,5
+Sufjan Stevens,Carrie & Lowell,Indie Folk,2015,March,31,90,31
+Madvillain,Madvillainy,Hip Hop,2004,March,23,90,8
+U2,War,Rock,1983,February,28,90,6
+Jeff Buckley,Grace,Singer-Songwriter,1994,August,23,90,7
+PJ Harvey,To Bring You My Love,Alternative Rock,1995,February,28,89,5
+The Replacements,Tim,Alternative Rock,1985,October,1,89,5
+Sonic Youth,Dirty,Alternative Rock,1992,July,21,89,5
+Guns N' Roses,Appetite for Destruction,Hard Rock,1987,July,21,89,5
+David Bowie,Station to Station,Art Rock,1976,January,23,89,5
+Fennesz,Endless Summer,Ambient,2001,July,3,89,5
+Solomon Burke,Don't Give Up on Me,Electronic,2002,July,23,89,5
+Boards of Canada,Music Has the Right to Children,Emo,1998,April,20,89,5
+Sunny Day Real Estate,Diary,Alternative Rock,1994,May,10,89,5
+Super Furry Animals,Radiator,Rock,1997,August,25,89,5
+Queen,A Night At The Opera,Drum and Bass,1975,November,21,89,5
+A Guy Called Gerald,Black Secret Technology,Electronic,1995,February,1,89,5
+The Avalanches,Since I Left You,Hip Hop,2000,November,27,89,11
+Brother Ali,Shadows on the Sun,Hip Hop,2003,May,2,89,5
+Clipse,Hell Hath No Fury,Pop Rock,2006,November,28,89,13
+Paul McCartney & Linda McCartney,Ram,Singer-Songwriter,1971,May,17,89,7
+Father John Misty,"I Love You, Honeybear",Punk Rock,2015,February,10,89,29
+Blink-182,Blink-182,Art Rock,2003,November,18,89,5
+Nick Cave & The Bad Seeds,Skeleton Tree,Indie Pop,2016,September,9,89,21
+Grandaddy,The Sophtware Slump,Experimental Rock,2000,November,7,89,7
+Menomena,I Am the Fun Blame Monster,Shoegaze,2003,June,20,89,5
+Archers of Loaf,Icky Mettle,Indie Rock,1993,November,23,89,5
+The New Pornographers,Twin Cinema,Indie Rock,2005,August,23,89,12
+PJ Harvey,Let England Shake,Alternative Rock,2011,February,15,89,28
+Bon Iver,"22, A Million",Art Pop,2016,September,30,89,28
+Nick Cave & The Bad Seeds,The Boatman's Call,Alternative Rock,1997,March,3,89,6
+Four Tet,Rounds,Electronic,2003,May,6,89,8
+Songs: Ohia,The Magnolia Electric Co.,Alt-Country,2003,March,4,89,6
+Supersilent,6,Alternative Rock,2003,January,20,89,5
+Rosanne Cash,Rules of Travel,Electronica,2003,March,25,89,5
+Modest Mouse,The Moon & Antarctica,World,2000,June,13,89,6
+Prefuse 73,One Word Extinguisher,Ambient,2003,May,6,88,6
+Ali Farka Toure,Savane,Indie Rock,2006,July,25,88,5
+Stars of the Lid,And Their Refinement Of The Decline,Alternative Rock,2007,April,7,88,8
+Mercury Rev,Deserter's Songs,Experimental,1998,September,29,88,7
+Radiohead,In Rainbows,Alternative Rock,2007,October,10,88,21
+Animal Collective,"Spirit They're Gone, Spirit They've Vanished",Synthpop,2000,August,25,88,5
+The Strokes,Is This It,Alternative Rock,2001,October,9,88,10
+New Order,Brotherhood,Indie Rock,1986,September,29,88,5
+Nick Cave & The Bad Seeds,Let Love In,Trip Hop,1994,April,18,88,5
+Interpol,Turn On The Bright Lights,Trip Hop,2002,August,22,88,9
+Tricky,Maxinquaye,Funk,1995,February,20,88,6
+Portishead,Third,Hip Hop,2008,April,28,88,23
+Radiohead,Kid A,Experimental Rock,2000,October,3,88,11
+Max Richter,The Blue Notebooks,Modern Classical,2004,February,26,88,7
+Loretta Lynn,Van Lear Rose,Country,2004,April,27,88,12
+Beyoncé,Lemonade,R&B,2016,April,23,88,25
+Sleater-Kinney,Dig Me Out,Indie Rock,1997,April,8,88,7
+Sufjan Stevens,Greetings From Michigan: The Great Lakes State,Indie Folk,2003,July,1,88,7
+TV on the Radio,Return to Cookie Mountain,Experimental Rock,2006,September,12,88,17
+Café Tacuba,Cuatro Caminos,Indie Rock,2003,July,1,88,6
+Cat Power,You Are Free,Alternative Rock,2003,February,18,88,8
+Dinosaur Jr.,You're Living All Over Me,Indie Rock,1987,December,14,88,5
+Pavement,"Crooked Rain, Crooked Rain",Hip Hop,1994,February,2,88,5
+Kendrick Lamar,"good kid, m.A.A.d. city",Chamber Pop,2012,October,22,88,22
+Antony and the Johnsons,I Am a Bird Now,Acoustic Rock,2005,February,1,88,10
+Owen,New Leaves,Hip Hop,2009,September,22,88,6
+MF Doom,Operation: Doomsday,Indie Rock,1999,January,5,88,5
+Rokia Traoré,Tchamantché,Indie Rock,2008,May,19,88,5
+Arcade Fire,The Suburbs,Art Pop,2010,August,3,88,30
+Low,Things We Lost in the Fire,Post-Rock,2001,February,6,88,7
+St. Vincent,St. Vincent,Hip Hop,2014,February,25,88,30
+Talk Talk,Laughing Stock,Grunge,1991,September,16,88,5
+The Roots,Things Fall Apart,Indie Rock,1999,February,23,88,6
+Nirvana,In Utero,Alternative Rock,1993,September,13,88,6
+The Olivia Tremor Control,Music from the Unrealized Film Script: Dusk at Cubist Castle,Art Pop,1996,August,6,88,6
+Belle & Sebastian,If You're Feeling Sinister,Indie Pop,1996,November,18,88,5
+Julia Holter,Have You in My Wilderness,Art Pop,2015,September,25,88,22
+Destroyer,Destroyer's Rubies,Indie Rock,2006,February,21,87,11
+TV on the Radio,Dear Science,Experimental Rock,2008,September,22,87,21
+Caribou,Up in Flames,Electronic,2003,March,31,87,7
+Sleater-Kinney,The Woods,Indie Rock,2005,May,24,87,10
+RJD2,Deadringer,Hip Hop,2002,July,23,87,6
+Run the Jewels,Run the Jewels 2,Hip Hop,2014,October,28,87,26
+St. Vincent,Strange Mercy,Indie Pop,2011,September,13,87,27
+M.I.A.,Arular,Electropop,2005,March,22,87,11
+Shackleton,Three EPs,UK Bass,2009,October,13,87,5
+Sebadoh,III,Indie Rock,1991,August,16,87,5
+Meshell Ndegeocello,Devil's Halo,Soul,2009,October,6,87,5
+Joanna Newsom,Divers,Singer-Songwriter,2015,October,23,87,28
+Swans,To Be Kind,Experimental Rock,2014,May,13,87,27
+DJ Sprinkles,Midtown 120 Blues,Deep House,2008,August,9,87,6
+The Streets,A Grand Don't Come For Free,Hip Hop,2004,May,18,87,11
+Solange,A Seat at the Table,Alternative R&B,2016,September,30,87,18
+Big Boi,Sir Lucious Left Foot: The Son of Chico Dusty,Hip Hop,2010,July,6,87,23
+Tame Impala,Lonerism,Psychedelic Rock,2012,October,9,87,24
+Shuggie Otis,Inspiration Information,Blues Rock,1974,October,10,87,6
+Edan,Beauty and the Beat,Hip Hop,2005,March,29,87,6
+OutKast,Stankonia,Hip Hop,2000,October,31,87,7
+The White Stripes,White Blood Cells,Garage Rock,2001,July,3,87,6
+Swans,The Seer,Post-Rock,2012,August,28,87,24
+Radiohead,A Moon Shaped Pool,Art Rock,2016,May,8,87,28
+Frank Ocean,Blonde,Alternative R&B,2016,August,20,87,28
+Matana Roberts,Coin Coin Chapter Two: Mississippi Moonchile,Avant-Garde Jazz,2013,September,30,87,5
+Grizzly Bear,Veckatimest,Indie Folk,2009,May,26,87,27
+The Microphones,"It Was Hot, We Stayed in the Water",Lo-Fi,2000,September,26,87,5
+Super Furry Animals,Phantom Power,Indie Rock,2003,July,22,87,9
+Fiona Apple,The Idler Wheel,Singer-Songwriter,2012,June,19,87,25
+Opeth,Ghost Reveries,Progressive Metal,2005,August,30,87,6
+Galaxie 500,This is Our Music,Slowcore,1990,January,1,87,5
+Cibo Matto,Viva! La Woman,Art Pop,1996,January,16,87,5
+Pixies,Bossanova,Alternative Rock,1990,August,13,87,5
+Aphex Twin,Syro,IDM,2014,September,23,87,30
+The Notwist,Neon Golden,Indie Rock,2003,February,25,87,7
+Burial,Burial,Dubstep,2006,May,15,87,6
+Junior Boys,Last Exit,Electronic,2004,September,21,87,10
+The War on Drugs,Lost in the Dream,Folk Rock,2014,March,18,87,29
+Lauryn Hill,The Miseducation of Lauryn Hill,R&B,1998,August,25,86,8
+Fugazi,The Argument,Post-Hardcore,2001,October,16,86,6
+The Flaming Lips,Yoshimi Battles The Pink Robots,Neo-Psychedelia,2002,July,16,86,8
+Ghostface Killah,Fishscale,Hip Hop,2006,March,28,86,10
+Ali Farka Toure & Toumani Diabate,Ali & Toumani,World,2010,February,23,86,6
+M.I.A.,Kala,Electropop,2007,August,21,86,19
+Tom Waits,"Orphans: Brawlers, Bawlers & Bastards",Blues,2006,November,21,86,12
+Raekwon,Only Built 4 Cuban Linx... Pt. II,Hip Hop,2009,September,8,86,17
+Jim O'Rourke,The Visitor,Experimental,2009,September,8,86,7
+Against Me!,Searching for a Former Clarity,Singer-Songwriter,2005,September,6,86,5
+Leonard Cohen,You Want It Darker,Progressive Metal,2016,October,21,86,16
+Meshuggah,obZen,Indie Rock,2008,March,7,86,6
+Built to Spill,Perfect From Now On,Singer-Songwriter,1997,January,28,86,8
+Sharon Van Etten,Are We There,Indie Folk,2014,May,27,86,26
+Adebisi Shank,This Is the Second Album of a Band Called Adebisi Shank,Southern Rock,2010,August,20,86,5
+Sparrow & the Workshop,Crystals Fall,Post-Punk,2010,April,11,86,5
+Drive-By Truckers,The Dirty South,Hip Hop,2004,August,24,86,5
+The Libertines,Up The Bracket,Indie Pop,2002,October,14,86,6
+The Streets,Original Pirate Material,Hip Hop,2002,October,22,86,8
+Dirty Projectors,Bitte Orca,Techno,2009,June,9,86,29
+Talib Kweli,Quality,Hip Hop,2002,November,19,86,6
+Orbital,In Sides,Indie Rock,1996,April,29,86,5
+Run the Jewels,Run the Jewels 3,Soul,2016,December,25,86,24
+The National,High Violet,Pop Rock,2010,May,10,86,28
+Janelle Monáe,The ArchAndroid,Indie Folk,2010,May,18,86,23
+The Beatles,Let It Be,Hip Hop,1970,May,8,86,5
+Joanna Newsom,Ys,Trip Hop,2006,November,14,86,21
+A Tribe Called Quest,We got it from Here... Thank You 4 Your service,Indie Pop,2016,November,11,86,20
+Massive Attack,Mezzanine,Indie Pop,1998,April,20,86,7
+The Unicorns,Who Will Cut Our Hair When We're Gone?,Electronic,2003,October,21,86,9
+Mitski,Puberty 2,Indie Rock,2016,June,17,86,22
+Flying Lotus,Cosmogramma,Experimental,2010,May,4,86,27
+Ride,Going Blank Again,Shoegaze,1992,March,9,86,5
+Converge,Axe To Fall,Metalcore,2009,October,20,86,8
+Wolf Parade,Apologies to the Queen Mary,Indie Rock,2005,September,27,86,12
+LCD Soundsystem,Sound of Silver,Dance Punk,2007,March,20,86,21
+Bonnie 'Prince' Billy,I See a Darkness,Folk,1999,January,19,86,6
+Wilco,Summerteeth,Indie Rock,1999,March,9,86,5
+Baroness,Blue Record,Sludge Metal,2009,October,13,86,5
+Mount Eerie,Wind's Poem,Indie Folk,2009,August,18,86,8
+The Hold Steady,Boys and Girls in America,Rock,2006,October,3,86,13
+Brad Paisley,American Saturday Night,Country,2009,June,30,86,8
+Moby,Everything Is Wrong,Electronic,1995,March,14,86,5
+Erykah Badu,Mama's Gun,Soul,2000,November,21,86,5
+Patty Loveless,Mountain Soul,Hip Hop,2001,June,26,86,5
+A Tribe Called Quest,Midnight Marauders,Dancehall,1993,November,9,86,5
+The Bug,London Zoo,Indie Pop,2008,July,7,86,7
+The xx,xx,House,2009,October,6,86,20
+Herbert,Scale,Hip Hop,2006,May,29,86,10
+Vince Staples,Summertime '06,Indie Rock,2015,June,30,86,19
+Courtney Barnett,"Sometimes I Sit and Think, and Sometimes I Just Sit",Alternative R&B,2015,March,24,86,27
+FKA Twigs,LP1,Indie Pop,2014,August,12,86,32
+A.C. Newman,The Slow Wonder,Chamber Pop,2004,June,8,86,7
+Andrew Bird,The Swimming Hour,Space Rock,2001,April,3,86,6
+Spiritualized,Ladies and Gentlemen We Are Floating in Space,Indie Rock,1997,June,16,86,5
+Angel Olsen,My Woman,Ambient,2016,September,2,86,26
+Primal Scream,Vanishing Point,Alternative Dance,1997,July,7,85,6
+Swans,My Father Will Guide Me Up a Rope to the Sky,Post-Rock,2010,September,21,85,17
+Björk,Vulnicura,Art Pop,2015,January,20,85,25
+Deerhunter,Microcastle,Indie Rock,2008,October,28,85,24
+Comets On Fire,Blue Cathedral,Psychedelic Rock,2004,July,27,85,7
+tUnE-yArDs,w h o k i l l,Experimental,2011,April,19,85,25
+Sigur Rós,Agaetis Byrjun,Post-Rock,1999,June,12,85,11
+Modest Mouse,Good News For People Who Love Bad News,Alternative Rock,2004,April,6,85,7
+Tim Hecker,"Ravedeath, 1972",Drone,2011,February,15,85,14
+Laura Marling,Once I Was an Eagle,Folk,2013,May,27,85,28
+Franz Ferdinand,Franz Ferdinand,Indie Rock,2004,March,9,85,11
+The Field,From Here We Go Sublime,Electronic,2007,April,3,85,8
+The Chemical Brothers,Dig Your Own Hole,Electronic,1997,April,7,85,7
+Christine and the Queens,Chaleur Humaine,Electropop,2014,May,19,85,6
+Deerhunter,Weird Era Cont.,Indie Rock,2008,October,28,85,6
+Joanna Newsom,The Milk-Eyed Mender,Indie Folk,2004,March,23,85,6
+Pallbearer,Foundations of Burden,Doom Metal,2014,August,19,85,12
+Sunn O))),Monoliths and Dimensions,Drone Metal,2009,May,26,85,12
+Green Day,Dookie,Punk Rock,1994,February,1,85,5
+Califone,Quicksand / Cradlesnakes,Indie Folk,2003,March,18,85,5
+LCD Soundsystem,This Is Happening,Dance Punk,2010,May,18,85,28
+Grimes,Art Angels,Art Pop,2015,November,6,85,24
+Art Brut,Bang Bang Rock & Roll,Indie Rock,2005,May,30,85,10
+Perfume Genius,Too Bright,Art Pop,2014,September,23,85,28
+The Dismemberment Plan,Change,Indie Rock,2001,October,23,85,7
+Bon Iver,"Bon Iver, Bon Iver",Indie Folk,2011,June,21,85,28
+John Talabot,ƒIN,Deep House,2012,February,14,85,15
+Broken Social Scene,You Forgot It In People,Indie Rock,2002,October,15,85,8
+Wild Beasts,Present Tense,Art Pop,2014,February,25,85,23
+Paul Weller,Wild Wood,Pop Rock,1993,September,6,85,6
+Beyoncé,Beyoncé,R&B,2013,December,13,85,23
+Tindersticks,Curtains,Chamber Pop,1997,June,4,85,5
+Sinéad O'Connor,I Do Not Want What I Haven't Got,Alternative Rock,1990,March,1,85,7
+Kanye West,Late Registration,Hip Hop,2005,August,30,85,16
+Flying Lotus,Los Angeles,Electronic,2008,June,10,85,11
+Destroyer,Kaputt,Indie Pop,2011,January,25,85,23
+Rokia Traoré,Beautiful Africa,World,2013,January,8,85,5
+Queens of the Stone Age,Rated R,Rock,2000,June,6,85,7
+The Decemberists,Picaresque,Folk Rock,2005,March,22,85,12
+Kacey Musgraves,Same Trailer Different Park,Country,2013,March,19,85,8
+Fennesz,Venice,Ambient,2004,March,23,85,6
+Jenny Hval,Innocence Is Kinky,Experimental,2013,May,14,85,10
+Harvey Milk,Life... The Best Game In Town,Sludge Metal,2008,June,3,85,9
+Bob Dylan,Time Out of Mind,Folk,1997,September,30,85,5
+Radiohead,Hail To The Thief,Experimental Rock,2003,June,10,85,11
+The Roots,Phrenology,Hip Hop,2002,November,26,85,10
+Primal Scream,XTRMNTR,Alternative Dance,2000,May,2,85,5
+Kanye West,Yeezus,Hip Hop,2013,June,18,85,35
+Godspeed You! Black Emperor,'Allelujah! Don't Bend! Ascend!,Post-Rock,2012,October,16,85,23
+Shabazz Palaces,Black Up,Hip Hop,2011,June,28,85,20
+The National,Boxer,Indie Rock,2007,May,22,85,20
+Missy Elliott,Miss E... So Addictive,Hip Hop,2001,May,15,85,10
+Superchunk,Foolish,Indie Rock,1994,January,1,85,5
+Drive-By Truckers,Decoration Day,Southern Rock,2003,June,17,85,6
+Add N To (X),On the Wires of Our Nerves,Drone,1998,May,19,85,5
+The Haxan Cloak,Excavation,Drone,2013,April,15,85,15
+Tim Hecker,Harmony in Ultraviolet,Experimental,2006,October,16,85,5
+Yeasayer,All Hour Cymbals,Electronic,2007,October,23,85,14
+Rustie,Glass Swords,Post-Rock,2011,October,11,85,10
+Teeth of the Sea,Master,Americana,2013,October,7,85,7
+James McMurtry,Complicated Game,Psychedelic Pop,2015,February,24,85,6
+Tame Impala,Currents,Indie Rock,2015,July,17,85,28
+Idlewild,100 Broken Windows,Hip Hop,2000,May,9,85,5
+Jóhann Jóhannsson,Englabörn,Indie Pop,2002,January,1,85,5
+King Geedorah,Take Me to Your Leader,Indie Rock,2003,June,17,85,5
+Feist,Let It Die,Art Pop,2004,May,18,85,7
+Silver Jews,American Water,Noise Rock,1998,October,20,85,6
+Julia Holter,Loud City Song,Post-Punk,2013,August,19,85,23
+Shellac,Dude Incredible,Experimental Rock,2014,September,16,85,8
+Mission of Burma,ONoffON,Garage Punk,2004,May,4,84,8
+Zun Zun Egui,Shackles' Gift,Blues,2015,January,27,84,6
+Hot Snakes,Audit in Progress,Folk,2004,October,5,84,7
+Tom Waits,Bad as Me,UK Bass,2011,October,25,84,24
+Gazelle Twin,The Entire City,Electronic,2011,July,11,84,5
+The Decemberists,The Crane Wife,Folk Rock,2006,October,3,84,16
+Serena-Maneesh,Serena-Maneesh,Shoegaze,2005,August,29,84,5
+Dr. Octagon,Dr. Octagonecologyst,Hip Hop,1996,May,6,84,5
+Arcade Fire,Neon Bible,Indie Rock,2007,March,6,84,20
+Tori Amos,Little Earthquakes,Alternative Rock,1992,January,13,84,6
+Actress,Splazsh,Microhouse,2010,June,8,84,9
+Torres,Torres,Folk,2013,January,22,84,10
+Queen,Sheer Heart Attack,Hard Rock,1974,November,8,84,6
+Isis,Panopticon,Post-Metal,2004,October,19,84,6
+Run the Jewels,Run the Jewels,Hip Hop,2013,June,26,84,20
+Ladytron,Witching Hour,Electropop,2005,October,3,84,7
+Japandroids,Celebration Rock,Garage Rock,2012,June,5,84,23
+Danny Brown,OLD,Hip Hop,2013,October,8,84,22
+D.D Dumbo,Utopia Defeated,Indie Pop,2016,October,7,84,5
+Dave Rawlings Machine,Nashville Obsolete,Americana,2015,September,18,84,5
+Daniel Romano,If I've Only One Time Askin',Americana,2015,July,31,84,5
+Caetano Veloso,Livro,Folk,1998,October,10,84,5
+Bill Wells & Aidan Moffat,The Most Important Place In The World,Metalcore,2015,March,16,84,5
+Killswitch Engage,As Daylight Dies,Blues,2006,November,21,84,5
+Ry Cooder,Pull Up Some Dust and Sit Down,Rock,2011,August,29,84,5
+Thursday,No Devolucion,Folk Rock,2011,April,12,84,5
+The Decemberists,Castaways and Cutouts,Alternative Rock,2002,May,21,84,5
+Queens of the Stone Age,Songs For The Deaf,Indie Rock,2002,August,22,84,7
+Meshell Ndegeocello,Weather,Soul,2011,November,8,84,6
+Cannibal Ox,The Cold Vein,Hip Hop,2001,May,15,84,6
+Danny Brown,Atrocity Exhibition,Hip Hop,2016,September,27,84,25
+Ian William Craig,Centres,Ambient,2016,July,8,84,6
+Deerhoof,The Runners Four,Experimental,2005,October,11,84,9
+Do Make Say Think,Winter Hymn Country Hymn Secret Hymn,Post-Rock,2003,October,6,84,7
+Future of the Left,How To Stop Your Brain In An Accident,Post-Hardcore,2013,October,21,84,10
+Jlin,Dark Energy,Footwork,2015,March,24,84,5
+Flying Lotus,You're Dead!,Electronic,2014,October,7,84,30
+Herbert,Bodily Functions,Electronic,2001,June,5,84,6
+Hot Hot Heat,Make Up the Breakdown,New Wave,2002,October,8,84,7
+Robyn,Robyn,Electropop,2005,April,27,84,14
+Cadence Weapon,Breaking Kayfabe,Hip Hop,2005,November,28,84,6
+The Shins,"Oh, Inverted World",Indie Rock,2001,June,19,84,6
+Devendra Banhart,Rejoicing In The Hands,Folk,2004,May,4,84,8
+Elliott Smith,Either/Or,Folk,1997,February,25,84,5
+Donald Fagen,Morph the Cat,Indie Rock,2006,March,7,84,7
+Neutral Milk Hotel,In the Aeroplane Over the Sea,Singer-Songwriter,1998,February,10,84,8
+Martyn,Great Lengths,Techno,2009,April,20,84,5
+Sun Kil Moon,Benji,Indie Rock,2014,February,11,84,20
+Voices From the Lake,Voices From the Lake,Noise Pop,2012,March,13,84,5
+The Go! Team,"Thunder, Lightning, Strike",Hip Hop,2004,September,13,84,9
+Sleigh Bells,Treats,Indie Folk,2010,May,11,84,29
+Beastie Boys,Ill Communication,Hip Hop,1994,May,31,84,7
+Deerhunter,Halcyon Digest,Indie Rock,2010,September,28,84,29
+R.E.M.,Fables of the Reconstruction,Alternative Rock,1985,June,10,84,6
+David Bowie,Blackstar,Art Rock,2016,January,8,84,28
+Annie,Anniemal,Electropop,2004,September,28,84,9
+Kate Bush,50 Words for Snow,Singer-Songwriter,2011,November,21,84,23
+Le Tigre,Le Tigre,Dance Punk,1999,October,26,84,6
+Fugees,The Score,Hip Hop,1996,February,13,84,5
+Boards of Canada,Geogaddi,Electronic,2002,February,19,84,9
+El Perro Del Mar,El Perro Del Mar,Alt-Country,2006,June,5,84,5
+Neko Case,Fox Confessor Brings the Flood,Dub Techno,2006,March,7,84,14
+Andy Stott,Luxury Problems,Indie Rock,2012,October,29,84,13
+Yo La Tengo,I Am Not Afraid of You and I Will Beat Your Ass,Progressive Rock,2006,September,12,84,16
+Yamantaka // Sonic Titan,YT//ST,Indie Rock,2011,October,1,84,5
+Constantines,Shine a Light,Electronic,2003,August,19,84,5
+M83,"Dead Cities, Red Seas & Lost Ghosts",Black Metal,2003,April,14,84,9
+Alcest,Écailles de Lune,Hip Hop,2010,March,29,84,6
+Saigon,The Greatest Story Never Told,Post-Rock,2011,February,15,84,6
+Hood,Outside Closer,Indie Rock,2005,January,17,84,7
+The Twilight Sad,Fourteen Autumns & Fifteen Winters,Trip Hop,2007,April,3,84,10
+Portishead,Portishead,Indie Rock,1997,September,30,84,7
+Yo La Tengo,And Then Nothing Turned Itself Inside-Out,Hardcore Punk,2000,February,22,84,6
+Fucked Up,David Comes to Life,Folk,2011,June,7,84,22
+Robert Plant and Alison Krauss,Raising Sand,Pop Rock,2007,October,23,84,9
+Bob Dylan,Love and Theft,Singer-Songwriter,2001,September,11,84,7
+Supergrass,In It for the Money,Britpop,1997,April,21,84,8
+The Men,Open Your Heart,Noise Rock,2012,March,6,84,21
+Bright Eyes,"I'm Wide Awake, It's Morning",Folk,2005,January,25,84,12
+Elvis Costello,King of America,Pop Rock,1986,February,21,84,7
+The Clientele,The Violet Hour,Hip Hop,2003,July,8,84,5
+OutKast,Speakerboxxx/The Love Below,Indie Folk,2003,September,23,84,12
+Mutual Benefit,Love's Crushing Diamond,Indie Pop,2013,October,25,84,14
+Solomon Burke,Nashville,Indie Folk,2006,September,26,84,5
+Girls,Album,Grindcore,2009,September,22,84,19
+X-TG,Desertshore/The Final Report,Punk Rock,2012,December,11,84,5
+Fleet Foxes,Fleet Foxes,R&B,2008,June,3,84,21
+Napalm Death,Apex Predator,Indie Folk,2015,January,27,84,6
+Death From Above 1979,"You're a Woman, I'm a Machine",Alternative Rock,2004,October,26,84,6
+Miguel,Kaleidoscope Dream,Hip Hop,2012,October,2,84,12
+Bon Iver,"For Emma, Forever Ago",Rock,2008,February,19,84,17
+The Verve,Urban Hymns,Progressive Rock,1997,September,29,84,6
+J Dilla,Donuts,Jazz,2006,February,7,84,7
+John Mellencamp,No Better Than This,Indie Rock,2010,August,17,84,8
+Porcupine Tree,Fear of a Blank Planet,Microhouse,2007,April,16,84,6
+Matana Roberts,Coin Coin Chapter One: Gens De Couleur Libre,World,2011,May,10,84,6
+Josephine Foster,I'm A Dreamer,Freak Folk,2013,November,12,84,5
+Built to Spill,Keep It Like a Secret,Indie Rock,1999,February,2,84,8
+Sun Kil Moon,Ghosts of the Great Highway,Folk,2003,November,4,84,6
+Roni Size & Reprazent,New Forms,Drum and Bass,1997,October,28,84,6
+Flying Lotus,Until the Quiet Comes,Electronic,2012,October,2,84,26
+Prince,Controversy,Pop Rock,1981,October,14,84,5
+Hole,Live Through This,Alternative Rock,1994,April,12,84,5
+Bloc Party,Silent Alarm,Indie Rock,2005,March,22,84,11
+Panda Bear,Person Pitch,Experimental,2007,March,20,84,16
+Kano,Home Sweet Home,UK Bass,2005,June,27,84,5
+Hood,Cold House,Hip Hop,2001,November,13,84,7
+Elysia Crampton,Demon City,Grindcore,2016,July,22,84,6
+Kate Tempest,Let Them Eat Chaos,Folk,2016,October,7,84,10
+Nails,You Will Never Be One of Us,Chamber Pop,2016,June,17,84,5
+Vashti Bunyan,Lookaftering,Indie Rock,2005,October,17,84,6
+Destroyer,Poison Season,Indie Folk,2015,August,28,83,24
+Hop Along,Painted Shut,Jazz,2015,May,5,83,12
+Aim,Hinterland,Hip Hop,2002,February,16,83,6
+Joanna Newsom,Have One on Me,Alt-Country,2010,February,23,83,25
+Allen Toussaint,The Bright Mississippi,Indie Rock,2009,April,21,83,6
+Death Grips,The Money Store,Electronic,2012,April,24,83,18
+India Arie,Acoustic Soul,Pop Punk,2001,March,27,83,5
+Say Anything,...Is a Real Boy,Soul,2004,August,3,83,5
+Jessie Ware,Devotion,Art Pop,2012,August,20,83,26
+Anna Meredith,Varmints,Chamber Pop,2016,March,4,83,6
+Natalie Prass,Natalie Prass,Indie Pop,2015,January,27,83,18
+Girls,"Father, Son, Holy Ghost",Garage Rock,2011,September,13,83,22
+The Jim Jones Revue,Burning Your House Down,Alt-Country,2010,June,9,83,6
+Parquet Courts,Light Up Gold,Hip Hop,2012,August,18,83,20
+Drive-By Truckers,American Band,Drone,2016,September,30,83,11
+Killer Mike,R.A.P. Music,Indie Rock,2012,May,15,83,19
+Tim Hecker,Virgins,Garage Rock,2013,October,14,83,22
+The Futureheads,The Futureheads,Drone,2004,October,26,83,10
+The Icarus Line,Penance Soiree,Indie Folk,2004,May,2,83,7
+Boris,Pink,Neo-Psychedelia,2005,November,18,83,7
+Grizzly Bear,Yellow House,Art Pop,2006,September,5,83,10
+Animal Collective,Sung Tongs,Experimental,2004,June,1,83,10
+Björk,Vespertine,Hip Hop,2001,August,28,83,11
+Actress,R.I.P.,Alternative Rock,2012,April,24,83,16
+El-P,Cancer 4 Cure,Electropop,2012,May,22,83,25
+Nick Cave & The Bad Seeds,Push the Sky Away,Post-Rock,2013,February,18,83,30
